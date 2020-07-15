@@ -1,0 +1,5 @@
+greeting	Hi. Hello. How are you? Hey. How is it going? Good morning. Good evening. Good afternoon. Howdy.
+conversation-continue	OK. Wow. Great. Is it? I see. That's great. Good. Really? Let me think about it.
+price-inquiry	How much is it? What's the price ? What's the cost? How much does it cost? Price. Cost. Money.
+product-inquiry	What is this product? What's the product? What does this product do? What is the name of product? What this product is all about? Can you tell me something about this product? What are the product features? Tell me about the features of the product. 
+conversation-complete	Done. That's all. That's it. I am done. Thank you for the information. Thanks. Thank you. Nothing else.

@@ -1,0 +1,5 @@
+greeting;Hello, what could I help you with?
+product-inquiry;It's a high end smartphone.
+price-inquiry;It costs 200 US plus taxes.
+conversation-continue;Do you have any other questions?
+conversation-complete;Goodbye.
