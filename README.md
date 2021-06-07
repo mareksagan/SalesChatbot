@@ -1,5 +1,5 @@
 # SalesBot
-Price inquiry bot (Java 8, Apache OpenNLP, WebSocket)
+Price inquiry bot (Java 8, Apache OpenNLP)
 
 ## Requirements
 * Bot must be able to answer pricing and sales related questions in an intelligent manner
